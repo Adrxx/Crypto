@@ -24,7 +24,7 @@ github "alexaubry/Crypto"
 
 ### CocoaPods
 
-Crypto cannot be installed with Carthage yet. Please read [#1](https://github.com/alexaubry/Crypto/issues/1) for more information.
+Crypto cannot be installed with CocoaPods yet. Please read [#1](https://github.com/alexaubry/Crypto/issues/1) for more information.
 
 ## Usage
 
